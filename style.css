@@ -24,4 +24,8 @@ h2,h3,h4,h5{
     text-align: center;
     padding:100;
 }
+/*Estilização da tag section*/
+#texto{
+   border-inline-color: blue;
+}
 
