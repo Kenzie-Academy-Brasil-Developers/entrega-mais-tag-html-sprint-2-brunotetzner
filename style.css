@@ -1,0 +1,27 @@
+/*Estilização geral*/
+body{
+    background-color:  black;
+    color: white;
+    text-align:center;
+}
+
+/*Titulo da pagina*/
+h1{
+    color:goldenrod;
+    background-color: orangered;
+    padding: 10 px;
+
+}
+/*Subtitulos*/
+h2,h3,h4,h5{
+    text-align: left;
+        color:goldenrod;
+    padding: 20px;
+}
+/*Tag final*/
+#fim{
+    color:mediumblue;
+    text-align: center;
+    padding:100;
+}
+
