@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Petit+Formal+Script&display=swap');
+
 /*Estilização geral*/
 body{
     background-color:  black;
@@ -6,9 +8,11 @@ body{
 }
 
 /*Titulo da pagina*/
-h1{
+#title{
     color:goldenrod;
     background-color: orangered;
+    font-family: 'Petit Formal Script', cursive;
+
     padding: 10 px;
 
 }
@@ -16,16 +20,19 @@ h1{
 h2,h3,h4,h5{
     text-align: left;
         color:goldenrod;
-    padding: 20px;
+        font-family: 'Petit Formal Script', cursive;
+    
 }
 /*Tag final*/
 #fim{
     color:mediumblue;
+    font-size: 20px;
     text-align: center;
     padding:100;
 }
-/*Estilização da tag section*/
-#texto{
-   border-inline-color: blue;
+
+.list-details{
+text-align: left;
+    
 }
 
